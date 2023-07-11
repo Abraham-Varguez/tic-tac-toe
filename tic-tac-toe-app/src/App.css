@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(
+    90deg,
+    #0e1b25 0%,
+    #2a454b 50%,
+    #294861 100%
+  );
+  font-family: sans-serif;
+}
